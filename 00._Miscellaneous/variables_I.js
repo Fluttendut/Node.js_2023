@@ -24,5 +24,4 @@ console.log(`This is the third way '' """ ${scheduledBreakTime}`);
 //
 consoleLogCounter +- 3;
 
-
 console.log(consoleLogCounter);
